@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>製品一覧 - 日本製ナビ</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <a href="index.html" class="logo">日本製ナビ</a>
+                <ul class="nav-menu">
+                    <li><a href="products.html" class="active">製品一覧</a></li>
+                    <li><a href="manufacturers.html">メーカー一覧</a></li>
+                    <li><a href="about.html">このサイトについて</a></li>
+                    <li><a href="submit.html" class="btn-primary">製品を投稿</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h1>製品一覧</h1>
+                <p>Amazonで買える日本製品を集めました</p>
+            </div>
+        </section>
+
+        <section class="products-section">
+            <div class="container">
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="category-filter">カテゴリー:</label>
+                        <select id="category-filter">
+                            <option value="all">すべて</option>
+                            <option value="キッチン家電">キッチン家電</option>
+                            <option value="刃物・包丁">刃物・包丁</option>
+                            <option value="調理器具">調理器具</option>
+                            <option value="文房具">文房具</option>
+                            <option value="工具・DIY用品">工具・DIY用品</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="manufacturer-filter">メーカー:</label>
+                        <select id="manufacturer-filter">
+                            <option value="all">すべて</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>
+                            <input type="checkbox" id="comment-filter">
+                            ✨ コメント付きのみ
+                        </label>
+                    </div>
+                </div>
+
+                <div class="product-grid" id="products-list">
+                    <!-- JavaScriptで動的に生成 -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>日本製ナビ</h3>
+                    <p>日本人にもっと日本の製品を使ってほしい。</p>
+                </div>
+                <div class="footer-section">
+                    <h4>サイト</h4>
+                    <ul>
+                        <li><a href="products.html">製品一覧</a></li>
+                        <li><a href="manufacturers.html">メーカー一覧</a></li>
+                        <li><a href="about.html">このサイトについて</a></li>
+                        <li><a href="submit.html">製品を投稿</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 日本製ナビ. All rights reserved.</p>
+                <p class="disclaimer">当サイトは各企業とは一切関係なく、情報提供を目的として個人で運営しています。Amazon.co.jpアソシエイトとして適格販売により収入を得ています。</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
