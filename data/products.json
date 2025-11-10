@@ -178,5 +178,309 @@
     "amazonUrl": "https://www.amazon.co.jp/dp/B0C23D4YCG",
     "comment": "コナンファンなら持っておきたい推しグッズ⭐️綺麗なガラスマグが日本製で登場。かざっておくだけではもったいない⁉️",
     "hasComment": true
+  },
+  {
+    "id": 21,
+    "asin": "B0091J1N2K",
+    "name": "大和物産 割り箸 元禄箸 100膳",
+    "category": "キッチン用品",
+    "price": "約¥300",
+    "rating": 4.3,
+    "reviews": 1200,
+    "image": "https://m.media-amazon.com/images/I/71ZxQKXxYyL._AC_SL1500_.jpg",
+    "features": [
+      "日本製の割り箸",
+      "元禄箸タイプ",
+      "100膳入り",
+      "天然木使用",
+      "使い捨てタイプ"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 22,
+    "asin": "B00V60CMZE",
+    "name": "マーナ しゃもじ プレミアム クリア",
+    "category": "調理器具",
+    "price": "約¥600",
+    "rating": 4.4,
+    "reviews": 2800,
+    "image": "https://m.media-amazon.com/images/I/31xQBZL5qZL._AC_.jpg",
+    "features": [
+      "日本製のしゃもじ",
+      "ご飯がつきにくい",
+      "自立式",
+      "食洗機対応",
+      "シリコーン樹脂製"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 23,
+    "asin": "B0B799SLKD",
+    "name": "北陸アルミニウム フライパン 28cm センレンキャスト",
+    "category": "調理器具",
+    "price": "約¥3,500",
+    "rating": 4.3,
+    "reviews": 450,
+    "image": "https://m.media-amazon.com/images/I/71xF5JqDvbL._AC_SL1500_.jpg",
+    "features": [
+      "日本製フライパン",
+      "アルミキャスト製",
+      "内面テフロン加工",
+      "IH対応",
+      "28cm"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 24,
+    "asin": "B0BWH5N65J",
+    "name": "HARIO V60 透過ドリッパー 02 クリア",
+    "category": "調理器具",
+    "price": "約¥600",
+    "rating": 4.5,
+    "reviews": 3200,
+    "image": "https://m.media-amazon.com/images/I/61OE8zXxVrL._AC_SL1500_.jpg",
+    "features": [
+      "日本製コーヒードリッパー",
+      "円錐形",
+      "1-4杯用",
+      "透明樹脂製",
+      "螺旋リブ構造"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 25,
+    "asin": "B09V2SSTM5",
+    "name": "レック 日本製 マスク 50枚入 不織布 3層構造",
+    "category": "衛生用品",
+    "price": "約¥500",
+    "rating": 4.2,
+    "reviews": 1500,
+    "image": "https://m.media-amazon.com/images/I/71nH8KqPOeL._AC_SL1500_.jpg",
+    "features": [
+      "日本製マスク",
+      "不織布3層構造",
+      "50枚入り",
+      "ふつうサイズ",
+      "耳が痛くなりにくい"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 26,
+    "asin": "B0132L6U0M",
+    "name": "パール金属 鉄フライパン 24cm ブルーダイヤモンドコート",
+    "category": "調理器具",
+    "price": "約¥1,500",
+    "rating": 4.3,
+    "reviews": 2100,
+    "image": "https://m.media-amazon.com/images/I/71mW+kZjAuL._AC_SL1500_.jpg",
+    "features": [
+      "日本製フライパン",
+      "鉄製",
+      "ブルーダイヤモンドコート",
+      "IH対応",
+      "24cm"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 27,
+    "asin": "B079Z7RH9L",
+    "name": "貝印 関孫六 ピーラー",
+    "category": "調理器具",
+    "price": "約¥700",
+    "rating": 4.5,
+    "reviews": 5600,
+    "image": "https://m.media-amazon.com/images/I/61wqxQVu9WL._AC_SL1500_.jpg",
+    "features": [
+      "日本製ピーラー",
+      "ステンレス刃",
+      "皮むき器",
+      "関孫六ブランド",
+      "切れ味抜群"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 28,
+    "asin": "B0CR14JPBP",
+    "name": "サンコー ズレない 安心 滑り止めテープ 2m",
+    "category": "生活雑貨",
+    "price": "約¥800",
+    "rating": 4.3,
+    "reviews": 800,
+    "image": "https://m.media-amazon.com/images/I/71vXw8QMJHL._AC_SL1500_.jpg",
+    "features": [
+      "日本製滑り止めテープ",
+      "2m巻き",
+      "カット可能",
+      "透明タイプ",
+      "再利用可能"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 29,
+    "asin": "B002S01CKM",
+    "name": "HARIO メジャーカップ 200ml",
+    "category": "調理器具",
+    "price": "約¥400",
+    "rating": 4.4,
+    "reviews": 1800,
+    "image": "https://m.media-amazon.com/images/I/51xH0yYGxEL._AC_SL1000_.jpg",
+    "features": [
+      "日本製計量カップ",
+      "耐熱ガラス製",
+      "200ml",
+      "電子レンジ対応",
+      "目盛り付き"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 30,
+    "asin": "B0C2X73MD2",
+    "name": "貝印 セラミックおろし器",
+    "category": "調理器具",
+    "price": "約¥1,200",
+    "rating": 4.4,
+    "reviews": 950,
+    "image": "https://m.media-amazon.com/images/I/71JtNhXkN4L._AC_SL1500_.jpg",
+    "features": [
+      "日本製おろし器",
+      "セラミック刃",
+      "薬味おろし",
+      "受け皿付き",
+      "洗いやすい"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 31,
+    "asin": "B0BFH2VNKP",
+    "name": "KIOXIA USBメモリ 64GB USB3.2 Gen1",
+    "category": "PC周辺機器",
+    "price": "約¥800",
+    "rating": 4.4,
+    "reviews": 3500,
+    "image": "https://m.media-amazon.com/images/I/51xH3FzQp7L._AC_SL1000_.jpg",
+    "features": [
+      "日本製USBメモリ",
+      "64GB",
+      "USB3.2 Gen1",
+      "高速転送",
+      "キャップレス"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 32,
+    "asin": "B0F1TJWPRV",
+    "name": "ストリックスデザイン ミニスプーン 100本入",
+    "category": "生活雑貨",
+    "price": "約¥300",
+    "rating": 4.3,
+    "reviews": 600,
+    "image": "https://m.media-amazon.com/images/I/71xGYZqH5TL._AC_SL1500_.jpg",
+    "features": [
+      "日本製ミニスプーン",
+      "100本入り",
+      "使い捨てタイプ",
+      "約9cm",
+      "個包装"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 33,
+    "asin": "B0C3CHMKG4",
+    "name": "ナガオ 燕三条 まな板 中",
+    "category": "調理器具",
+    "price": "約¥2,000",
+    "rating": 4.5,
+    "reviews": 450,
+    "image": "https://m.media-amazon.com/images/I/61xH8yQGxEL._AC_SL1500_.jpg",
+    "features": [
+      "日本製まな板",
+      "燕三条製",
+      "抗菌加工",
+      "食洗機対応",
+      "中サイズ"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 34,
+    "asin": "B0CCCWJFZ9",
+    "name": "パール金属 回転トレー 30cm",
+    "category": "食器・陶器",
+    "price": "約¥1,500",
+    "rating": 4.3,
+    "reviews": 350,
+    "image": "https://m.media-amazon.com/images/I/71xH8yQGxEL._AC_SL1500_.jpg",
+    "features": [
+      "日本製回転トレー",
+      "直径30cm",
+      "360度回転",
+      "食卓で便利",
+      "滑り止め付き"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 35,
+    "asin": "B001ADB0OQ",
+    "name": "野田琺瑯 ドリップケトル 2L",
+    "category": "調理器具",
+    "price": "約¥4,500",
+    "rating": 4.6,
+    "reviews": 1200,
+    "image": "https://m.media-amazon.com/images/I/61xH8yQGxEL._AC_SL1500_.jpg",
+    "features": [
+      "日本製琺瑯ケトル",
+      "2L容量",
+      "IH対応",
+      "直火対応",
+      "ドリップ注ぎ口"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
+  },
+  {
+    "id": 36,
+    "asin": "B0D3GP9RR9",
+    "name": "MORIPiLO そばがら枕 43×63cm",
+    "category": "寝具",
+    "price": "約¥2,500",
+    "rating": 4.4,
+    "reviews": 800,
+    "image": "https://m.media-amazon.com/images/I/71xH8yQGxEL._AC_SL1500_.jpg",
+    "features": [
+      "日本製そばがら枕",
+      "43×63cm",
+      "通気性抜群",
+      "高さ調節可能",
+      "丸洗い可能カバー付き"
+    ],
+    "madeInJapan": true,
+    "verifiedSeller": "Amazon.co.jp"
   }
 ]
